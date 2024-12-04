@@ -1,7 +1,7 @@
 # My Trained Model
 This repository contains:
-- A trained model file (`model.h5`)
-- Training scripts (`train.ipynb`)
+- A trained model file (`energy_prediction_model-2.h5`)
+- Training scripts (``)
 - Instructions for usage.
 
 ## Usage
